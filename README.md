@@ -1,8 +1,28 @@
-# React + Vite
+1. Extract the ZIP File
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    Unzip the To-Do-Application.zip file.
 
-Currently, two official plugins are available:
+2. Install Node.js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    Make sure Node.js is installed. Check by running:
+
+    node -v
+    npm -v
+
+3. Install Dependencies
+
+    Open the terminal/command prompt and navigate to the project folder:
+
+    cd /path/to/To-Do-Application
+
+Install dependencies:
+
+    npm install
+
+4. Run the App
+
+    Start the app locally:
+
+npm run dev
+
+Open http://localhost:3000 in your browser to view the app.
