@@ -1,3 +1,5 @@
+vercel live link is https://to-do-application-beryl-ten.vercel.app/
+Github project link is https://github.com/Nitish15032000/To-Do-Application/
 1. Extract the ZIP File
 
     Unzip the To-Do-Application.zip file.
