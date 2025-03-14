@@ -33,16 +33,18 @@ Extract the ZIP File (If Downloaded Manually):
         node -v
         npm -v
 
-        If Node.js is not installed, download it from Node.js Official Website.
-
 3. Navigate to the Project Directory:
+
         cd To-Do-Application
 
 4. Install Project Dependencies:
+
         npm install
 
 5. Start the Application:
+
         npm run dev
 
 6. Open your browser and go to:
+
         http://localhost:5173
